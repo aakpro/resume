@@ -69,31 +69,33 @@ flowchart LR
 ### AI-Augmented Engineering & Developer Tooling · **Independent / Open Source**
 `2024 – Present` · Munich
 
-Designing and shipping AI pipelines that eliminate engineering toil — from problem specification through deployment. Focus: developer productivity, content automation, and intelligent triage.
+Exploring and building at the intersection of AI and developer productivity. Shipping tools where I can, evaluating and integrating others into my own workflows.
 
-- **AI Transcription Pipeline ([noScribe](https://github.com/aakpro/noScribe)):** Architected an end-to-end multi-speaker transcription system (Whisper + pyannote). Defined the speaker-diarization interface contracts and output schema — timestamped, speaker-labeled transcripts consumed by downstream content workflows.
-- **Multimodal Video Analysis:** Specified and built video processing pipelines using Qwen models for automated scene classification, content tagging, and metadata extraction. Eliminated manual content labeling from a media workflow — **80%+ reduction in labeling effort**.
-- **Codebase Knowledge Graphs ([Graphify](https://github.com/aakpro/graphify)):** Extended a tool that transforms codebases (source, docs, SQL schemas, configs) into queryable knowledge graphs via deterministic AST parsing. No vector store, no embeddings — fully reproducible and auditable.
-- **LLM-Powered Bug Triage:** Built a crash analysis pipeline that parses stack traces, correlates with recent commits, and surfaces probable root causes with suggested fixes. **Cut initial triage time from ~30 minutes to under 5.**
+- **Multimodal Video Analysis:** Built video processing pipelines using Qwen models for automated scene classification, content tagging, and metadata extraction — replacing manual content labeling in a media workflow.
+- **MacSpyCam:** Built a macOS security tool for motion-triggered camera recording and monitoring — local-first, privacy-focused, with configurable detection thresholds and automated alerting.
+- **LLM-Powered Bug Triage:** Built a crash analysis tool that parses stack traces, correlates with recent commits, and surfaces probable root causes with suggested fixes. Cut initial triage time from ~30 minutes to under 5.
+- **AI Transcription ([noScribe](https://github.com/aakpro/noScribe)):** Evaluating and integrating an AI-powered multi-speaker transcription system (Whisper + pyannote) into content production workflows — automated meeting notes and interview transcripts.
+- **Codebase Knowledge Graphs ([Graphify](https://github.com/aakpro/graphify)):** Using a tool that transforms codebases into queryable knowledge graphs via deterministic AST parsing — applying it to navigate and reason about large, unfamiliar codebases faster.
 
 ---
 
 ### Senior iOS Engineer · **Quartett Mobile**
 `March 2022 – Present` · Munich · *Automotive OEM Connected Mobility*
 
-Owned the iOS digital car key domain for a major OEM program — from specification through production. The role demands equal parts systems engineering and cross-org alignment: I define interface contracts between app, platform, and vehicle-side systems, then coordinate delivery across engineering, product, design, and vehicle test counterparts.
+Part of the iOS team delivering digital car key and vehicle connectivity features for a major automotive OEM program. The work spans deep systems engineering (cryptography, NFC, BLE, UWB) and cross-functional coordination across engineering, product, design, and vehicle-side counterparts.
 
-- **Digital Key System Ownership:** Authored and governed the iOS-side specification for CarKeyKit / CarKey integration — owner pairing flows, Apple Wallet provisioning, key sharing policies, and remote lock/unlock via `CarKeySession`. Defined the boundary contracts between app layer, Secure Element, and vehicle gateway.
-- **CCC 3.0 Protocol Integration:** Formulated the technical constraints and integration specifications for CCC Digital Key across NFC (tap-to-unlock), BLE, UWB distance ranging, and Secure Element–backed attestation — coordinating three teams (iOS, firmware, vehicle ECU) against a single specification.
-- **Cross-Platform BLE Architecture:** Designed and led the cross-platform BLE stack (C++, Objective-C, Swift) powering keyless connectivity across iOS and Android. Defined the abstraction boundaries that let both platforms share a single C++ core without leaking platform concerns.
-- **Quality Governance:** Established automated quality gates, review standards, and testability contracts that removed single-person bottlenecks from delivery. Mentored engineers on architectural reasoning, not just code output.
+- **Digital Car Key (iOS):** Core contributor to CarKeyKit / CarKey integration — owner pairing, Apple Wallet provisioning, key sharing, and remote lock/unlock via `CarKeySession`. Worked across the boundary between app layer, Secure Element, and vehicle gateway.
+- **CCC 3.0 Protocol Integration:** Implemented CCC Digital Key features across NFC (tap-to-unlock), BLE, UWB distance ranging, and Secure Element–backed attestation — coordinating with iOS, firmware, and vehicle ECU teams.
+- **Cross-Platform BLE Stack:** Contributed to the cross-platform BLE stack (C++, Objective-C, Swift) powering keyless connectivity across iOS and Android.
+- **Cross-Team Alignment:** Drove priorities and technical direction with distributed product and design partners; unblocked delivery when org boundaries created friction.
+- **Quality & Mentorship:** Helped establish code review standards and testability practices. Mentored engineers on architectural reasoning and system-level thinking.
 
 <details>
 <summary><b>Deep Dive: Digital Key Architecture</b></summary>
 <br/>
 
 > [!IMPORTANT]
-> The Digital Key system orchestrates cryptographic and hardware-level interactions between iOS devices and vehicle transceivers — Secure Element key generation, certificate exchange, CCC 3.0 APDU protocols, BLE + UWB distance ranging, and NFC background polling. The architectural challenge is governing the contracts between four independent systems (iOS app, Secure Element, vehicle NFC transceiver, OEM cloud gateway) while meeting automotive-grade reliability requirements.
+> The Digital Key system orchestrates cryptographic and hardware-level interactions between iOS devices and vehicle transceivers — Secure Element key generation, certificate exchange, CCC 3.0 APDU protocols, BLE + UWB distance ranging, and NFC background polling. The architectural challenge is managing the contracts between four independent systems (iOS app, Secure Element, vehicle NFC transceiver, OEM cloud gateway) while meeting automotive-grade reliability requirements.
 
 </details>
 
@@ -176,7 +178,7 @@ I co-founded and ran a company. Product vision, hiring, system architecture, fun
 ## Automotive Connectivity Architecture
 
 > [!NOTE]
-> Architectural overview of the CCC Digital Key 3.0 & Apple CarKey system I own at Quartett Mobile — showing the interface contracts between iOS client, device security hardware, and vehicle-side systems:
+> Architectural overview of the CCC Digital Key 3.0 & Apple CarKey system at Quartett Mobile — showing the interface contracts between iOS client, device security hardware, and vehicle-side systems:
 
 ```mermaid
 flowchart TD
@@ -267,12 +269,13 @@ Team Org Design · Product Roadmapping · Stakeholder Management · KPI-Driven D
 | Project | Domain | Role | Impact |
 |:---|:---|:---:|:---|
 | **Filimo / Televika** | Entertainment / VOD | Mobile Lead | Re-architected iOS platform for millions of users; 30% retention lift; streaming, DRM, recommendations |
-| **[noScribe](https://github.com/aakpro/noScribe)** | AI Transcription | Architect | End-to-end Whisper + pyannote pipeline; multi-speaker timestamped output |
-| **Qwen Video** | AI Video Analysis | Architect | Multimodal scene classification and metadata extraction; 80%+ labeling reduction |
-| **[Graphify](https://github.com/aakpro/graphify)** | AI Dev Tools | Builder | Codebase → queryable knowledge graph via AST parsing, no vector store |
+| **Qwen Video** | AI Video Analysis | Builder | Multimodal scene classification, content tagging, metadata extraction |
+| **MacSpyCam** | AI / Security | Builder | macOS motion-triggered security camera with configurable detection and alerting |
+| **[noScribe](https://github.com/aakpro/noScribe)** | AI Transcription | Evaluating | Multi-speaker transcription (Whisper + pyannote); integrating into content workflows |
+| **[Graphify](https://github.com/aakpro/graphify)** | AI Dev Tools | User | Codebase → queryable knowledge graph via AST parsing; using for codebase navigation |
 | **Recordium** | Audio Recording | iOS | Featured by Apple, TNW, Guardian; Top 10 Business in 110 countries |
 | **BeautyTime** | E-Commerce | Co-Founder & CTO | Zero to 9K DAU across 3 platforms in 4 months |
-| **Quartett OEM Key** | Automotive | iOS System Owner | Apple CarKeyKit, CCC 3.0 specification, Secure Element, cross-platform BLE |
+| **Quartett OEM Key** | Automotive | iOS Engineer | Apple CarKeyKit, CCC 3.0, Secure Element, cross-platform BLE |
 | **Rahavard365** | Financial Markets | iOS | Tehran Stock Exchange real-time data; millions of users |
 | **Digipay** | Fintech | iOS | Digital wallet for Digikala |
 | **Pacatio** | Fintech | iOS | Payment processing (USA) |
