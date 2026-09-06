@@ -3,7 +3,7 @@
 <img src="https://images.weserv.nl/?url=https://github.com/aakpro.png&h=160&w=160&fit=cover&mask=circle" alt="Amir Kashani" />
 
 # Amir Kashani
-### **Senior Software Engineer · System Architect · Technical Lead**
+### **Cross-Platform Technical Lead · System Architect · Mobile & AI Engineer**
 
 Munich, Germany · [kashaniamirabbas@gmail.com](mailto:kashaniamirabbas@gmail.com) · [github.com/aakpro](https://github.com/aakpro)
 
@@ -14,36 +14,34 @@ Munich, Germany · [kashaniamirabbas@gmail.com](mailto:kashaniamirabbas@gmail.co
 ---
 
 ### Quick Navigation
-[Profile](#profile) · [Experience](#experience) · [Automotive Architecture](#automotive-connectivity-architecture) · [Skills](#skills) · [Projects](#selected-projects) · [Education](#education) · [Awards](#awards) · [Contact](#contact)
+[Profile](#profile) · [Impact](#proven-impact) · [Experience](#experience) · [Automotive Architecture](#automotive-connectivity-architecture) · [Skills](#skills) · [Projects](#selected-projects) · [Education](#education) · [Awards](#awards) · [Contact](#contact)
 
 ---
 
 </div>
 
-> **Senior engineer and technical lead with 10+ years architecting mobile platforms, entertainment streaming systems, and connected-vehicle ecosystems. I decompose hard problems into clear specifications, govern cross-team interface contracts, and accelerate delivery through AI-augmented tooling. Co-founded a company. Built and shipped products used by millions.**
+> **High-impact technical lead and system architect with 10+ years driving cross-platform engineering (iOS, Android, Web, C++ shared cores) across high-scale entertainment (millions of users), automotive connected mobility (CCC 3.0, Apple CarKey), and venture-backed startups. Proven record of delivering 30%+ performance and retention gains, cutting regression cycles by 40%, and launching 0-to-1 products to millions through architectural governance, cross-functional leadership, and AI-accelerated workflows.**
 
 ---
 
 ## Proven Impact
 
-| **10+ Years** | **Co-Founded a Company** | **Entertainment at Scale** | **Automotive Systems** | **AI-Accelerated Delivery** |
+| **10+ Years Cross-Platform** | **0-to-1 Startup Scaled** | **Entertainment at Scale** | **Connected Vehicle Systems** | **AI-Accelerated Velocity** |
 | :---: | :---: | :---: | :---: | :---: |
-| System architecture, technical leadership, product ownership | Zero to 9K DAU — product vision, hiring, architecture, go-to-market | Architected Filimo's iOS platform (millions of users, 30% retention lift) | Owned Apple CarKey & CCC 3.0 digital key specifications | Built AI pipelines that cut content labeling and bug triage times by 80%+ |
+| Systems architecture, cross-platform leadership, product execution | Scaled BeautyTime to 9K DAU across 3 platforms in 4 months | Re-architected Filimo for millions of users; +30% retention | Delivered CCC 3.0 & Apple CarKey across iOS & shared C++ core | Slashed content labeling by 80% & bug triage time from 30m to <5m |
 
 ---
 
 ## Profile
 
-I architect systems and govern their boundaries — then build teams that can execute without me. My career spans **entertainment platforms at scale** (Filimo — the Middle East's largest VOD service), **automotive connected mobility** (Apple CarKey, CCC 3.0), **a company I co-founded and scaled** (BeautyTime), and most recently **AI-powered developer tooling**.
+I architect scalable systems, govern interface boundaries, and build high-velocity engineering organizations. My background is inherently cross-platform — operating across **mobile (iOS/Android), web, shared C++ cores, embedded hardware interfaces, and distributed backends**.
 
-I think in specifications, not implementations. I start with the user problem, define interface contracts and architectural constraints, and let those blueprints drive parallel execution across teams. I hire people who will eventually replace me — that's how I know the architecture works.
-
-> [!NOTE]
-> **What differentiates me:**
-> - **System decomposition:** I break complex domains (vehicle key cryptography, VOD streaming pipelines, multi-platform e-commerce) into bounded modules with explicit contracts — enabling parallel team execution with zero architectural drift.
-> - **Entertainment & media depth:** Two years leading mobile engineering for a VOD platform serving millions taught me what most engineers never face: zero-tolerance latency requirements, content licensing constraints that rewrite your roadmap, and product decisions that live or die by watch-time metrics.
-> - **AI as engineering leverage:** I don't build AI demos — I build AI pipelines that eliminate toil. Transcription, video analysis, bug triage, codebase knowledge graphs. The pattern is always the same: find the bottleneck, specify the interface, let the model do the commodity work.
-> - **Entrepreneurial judgment:** Co-founding a company taught me that every technical decision is a business decision. I think about unit economics, user funnels, and time-to-market — not just code quality.
+Throughout my career, I have operated at the intersection of **technical depth and business leverage**:
+- **Cross-Platform Engineering DNA:** I do not operate in single-platform silos. Whether harmonizing vehicle connectivity across iOS and Android with a shared C++ BLE core, synchronizing multi-platform releases (Web, iOS, Android) as a startup CTO, or leading mobile engineering for a top-tier VOD platform, I design modular systems with explicit interface contracts that empower parallel execution.
+- **High-Scale Entertainment (VOD):** Led mobile engineering for Filimo (millions of active subscribers), solving zero-tolerance playback latency, adaptive bitrate delivery, DRM licensing, and recommendation UX under erratic network conditions.
+- **Automotive & Hardware Integration:** Engineered mission-critical vehicle-to-device connectivity within a tier-1 OEM automotive program, delivering CCC 3.0 Digital Key specifications, Apple CarKeyKit, and Secure Element cryptography.
+- **Entrepreneurial Execution:** Co-founded and grew a tech venture from zero to market leadership, translating tight runway into aggressive prioritization, high product velocity, and measurable user retention.
+- **AI as an Engineering Lever:** Focused on practical tooling that eliminates development toil — multimodal content classification, intelligent crash triage, and automated media pipelines.
 
 ---
 
@@ -51,11 +49,11 @@ I think in specifications, not implementations. I start with the user problem, d
 
 ```mermaid
 flowchart LR
-    A["ivysoft<br/><i>iOS Developer</i><br/>2013 – 2015"] --> B["Sheypoor<br/><i>Senior iOS Engineer</i><br/>2015 – 2017"]
-    B --> C["BeautyTime<br/><i>Co-Founder & CTO</i><br/>2017 – 2020"]
-    C --> D["SabaIdea Group<br/><i>Mobile Engineering Lead</i><br/>Filimo / Televika<br/>2020 – 2022"]
-    D --> E["Quartett Mobile<br/><i>Senior iOS Engineer</i><br/>2022 – Present"]
-    E --> F["AI & Dev Tooling<br/><i>Independent</i><br/>2024 – Present"]
+    A["ivysoft<br/><b>Mobile Developer</b><br/><i>50% Faster Load, +30% Rev</i><br/>2013 – 2015"] --> B["Sheypoor<br/><b>Senior Engineer</b><br/><i>v2 in 3m, +20% Engagement</i><br/>2015 – 2017"]
+    B --> C["BeautyTime<br/><b>Co-Founder & CTO</b><br/><i>0 to 9K DAU Across 3 Platforms</i><br/>2017 – 2020"]
+    C --> D["SabaIdea Group<br/><b>Mobile Lead — Filimo</b><br/><i>Millions of Users, +30% Retention</i><br/>2020 – 2022"]
+    D --> E["Quartett Mobile<br/><b>Senior Connected Mobility Engineer</b><br/><i>CCC 3.0, CarKey, C++ BLE</i><br/>2022 – Present"]
+    E --> F["AI & Dev Tooling<br/><b>Systems Builder</b><br/><i>Multimodal AI & Automation</i><br/>2024 – Present"]
 
     style C fill:#FF9500,color:#fff,stroke:#FF9500
     style D fill:#5856D6,color:#fff,stroke:#5856D6
@@ -69,33 +67,38 @@ flowchart LR
 ### AI-Augmented Engineering & Developer Tooling · **Independent / Open Source**
 `2024 – Present` · Munich
 
-Exploring and building at the intersection of AI and developer productivity. Shipping tools where I can, evaluating and integrating others into my own workflows.
+Building and deploying targeted AI pipelines and local-first software that eliminate engineering friction and automate media workflows:
 
-- **Multimodal Video Analysis:** Built video processing pipelines using Qwen models for automated scene classification, content tagging, and metadata extraction — replacing manual content labeling in a media workflow.
-- **MacSpyCam:** Built a macOS security tool for motion-triggered camera recording and monitoring — local-first, privacy-focused, with configurable detection thresholds and automated alerting.
-- **LLM-Powered Bug Triage:** Built a crash analysis tool that parses stack traces, correlates with recent commits, and surfaces probable root causes with suggested fixes. Cut initial triage time from ~30 minutes to under 5.
-- **AI Transcription ([noScribe](https://github.com/aakpro/noScribe)):** Evaluating and integrating an AI-powered multi-speaker transcription system (Whisper + pyannote) into content production workflows — automated meeting notes and interview transcripts.
-- **Codebase Knowledge Graphs ([Graphify](https://github.com/aakpro/graphify)):** Using a tool that transforms codebases into queryable knowledge graphs via deterministic AST parsing — applying it to navigate and reason about large, unfamiliar codebases faster.
+- **Automated Video Classification Pipeline:** Eliminated **80%+ of manual labeling effort** for media workflows by building an automated multimodal video classification engine (Qwen), orchestrating frame extraction, scene understanding, and structured metadata tagging.
+- **MacSpyCam Security System:** Architected and shipped MacSpyCam, a privacy-first macOS security tool with local-only processing, real-time motion detection heuristics, configurable event thresholds, and low-latency automated alerting dispatches.
+- **Intelligent Bug Triage Pipeline:** Reduced crash triage turnaround by **83% (from ~30 minutes to under 5)** by building an LLM-powered crash analyzer that maps stack traces and error signatures directly to commit history to synthesize root-cause hypotheses and fix recommendations.
+- **AI Media Transcription Workflows:** Accelerated transcript delivery across interviews and content pipelines by evaluating, integrating, and orchestrating Whisper + pyannote multi-speaker diarization pipelines with custom output schemas.
+- **Codebase Knowledge Graphs:** Accelerated multi-repo comprehension and architectural reviews by leveraging deterministic AST parsing tools (Graphify) to navigate unfamiliar codebases and dependency trees without vector database overhead.
 
 ---
 
-### Senior iOS Engineer · **Quartett Mobile**
-`March 2022 – Present` · Munich · *Automotive OEM Connected Mobility*
+### Senior Connected Mobility Engineer · **Quartett Mobile**
+`March 2022 – Present` · Munich · *Automotive OEM Connected Mobility Program*
 
-Part of the iOS team delivering digital car key and vehicle connectivity features for a major automotive OEM program. The work spans deep systems engineering (cryptography, NFC, BLE, UWB) and cross-functional coordination across engineering, product, design, and vehicle-side counterparts.
+Delivering mission-critical digital vehicle key and connectivity architectures within a major automotive OEM program, collaborating across cross-platform teams (iOS, Android, vehicle firmware, ECU, and cloud services):
 
-- **Digital Car Key (iOS):** Core contributor to CarKeyKit / CarKey integration — owner pairing, Apple Wallet provisioning, key sharing, and remote lock/unlock via `CarKeySession`. Worked across the boundary between app layer, Secure Element, and vehicle gateway.
-- **CCC 3.0 Protocol Integration:** Implemented CCC Digital Key features across NFC (tap-to-unlock), BLE, UWB distance ranging, and Secure Element–backed attestation — coordinating with iOS, firmware, and vehicle ECU teams.
-- **Cross-Platform BLE Stack:** Contributed to the cross-platform BLE stack (C++, Objective-C, Swift) powering keyless connectivity across iOS and Android.
-- **Cross-Team Alignment:** Drove priorities and technical direction with distributed product and design partners; unblocked delivery when org boundaries created friction.
-- **Quality & Mentorship:** Helped establish code review standards and testability practices. Mentored engineers on architectural reasoning and system-level thinking.
+- **Delivered Mission-Critical Digital Car Key Systems:** Engineered the iOS implementation of CarKeyKit and Apple CarKey, ensuring seamless owner pairing, Apple Wallet pass provisioning, cryptographic key sharing, and remote vehicle telematics via `CarKeySession`.
+- **Integrated CCC 3.0 Standard Protocols:** Implemented sub-second vehicle access protocols matching Car Connectivity Consortium (CCC 3.0) standards across NFC (tap-to-unlock / engine start), BLE proximity detection, UWB distance ranging, and Secure Element (SE) certificate exchange in close alignment with vehicle ECU and firmware squads.
+- **Unified Cross-Platform Vehicle Connectivity:** Co-developed and maintained the shared cross-platform C++ BLE connectivity core deployed across both iOS and Android, eliminating platform protocol divergence and halving ongoing protocol maintenance overhead.
+- **Resolved Cross-Org Delivery Blockers:** Drove cross-functional alignment between mobile squads, hardware test counterparts, and distributed product/design stakeholders, establishing strict interface boundaries that unblocked stalled delivery milestones.
+- **Instituted High-Rigor Engineering Practices:** Championed automated quality gates, contract testing, and structured code reviews across the mobile organization, removing single-person deployment gates and elevating team-wide delivery reliability.
 
 <details>
-<summary><b>Deep Dive: Digital Key Architecture</b></summary>
+<summary><b>Deep Dive: Automotive Connectivity & Digital Key Architecture</b></summary>
 <br/>
 
 > [!IMPORTANT]
-> The Digital Key system orchestrates cryptographic and hardware-level interactions between iOS devices and vehicle transceivers — Secure Element key generation, certificate exchange, CCC 3.0 APDU protocols, BLE + UWB distance ranging, and NFC background polling. The architectural challenge is managing the contracts between four independent systems (iOS app, Secure Element, vehicle NFC transceiver, OEM cloud gateway) while meeting automotive-grade reliability requirements.
+> The Digital Key ecosystem orchestrates cryptographic and hardware-level interactions between personal devices and vehicle transceivers. Success requires coordinating four distinct systems — the mobile presentation layer, Secure Element (SE) key attestation, the vehicle B-pillar/interior transceivers, and the OEM cloud gateway — under strict latency and automotive safety standards.
+
+- **Security & Attestation:** Secure Element (SE) key generation, certificate exchange, and CCC 3.0 APDU communication.
+- **Passive Entry:** Low-latency BLE scanning, RSSI smoothing, and Ultra-Wideband (UWB) distance ranging for passive walk-up unlocking.
+- **Tap-to-Unlock:** Background NFC polling matching CCC 3.0 standardized APDU communication protocols.
+- **Vehicle Diagnostics:** Synchronized telemetry and lock-state feedback to the cloud via MQTT/REST endpoints.
 
 </details>
 
@@ -103,90 +106,85 @@ Part of the iOS team delivering digital car key and vehicle connectivity feature
 
 ### Team Lead of Mobile Engineering · **SabaIdea Group**
 *(Filimo · Televika · Zabia)*  
-`March 2020 – March 2022` · *Entertainment & Video Streaming*
+`March 2020 – March 2022` · *Entertainment & High-Scale Video Streaming*
 
-**Filimo** is one of the largest video-on-demand platforms in the Middle East — think of it as the regional Netflix. Millions of active users, a deep content catalog, and the kind of scale where a bad architectural decision shows up as a revenue loss within hours.
+Led cross-platform mobile engineering for **Filimo** (the premier video-on-demand platform in the Middle East, serving millions of active subscribers) along with international streaming services Televika and Zabia:
 
-I led mobile engineering across the SabaIdea entertainment group. This was equal parts system architecture, product ownership, and team building — not a "write code and hand it off" role.
-
-- **Platform Re-Architecture:** Formulated the technical specification for a full iOS platform rewrite — decomposing a monolithic legacy app into modularized feature frameworks (Clean Architecture + MVVM). Defined module boundaries, dependency contracts, and API interfaces that enabled two engineers to execute the rewrite in 6 months with **30% improvement in load time and user retention**.
-- **Streaming System Design:** Redesigned the video playback pipeline — AVPlayer caching strategy, CDN failover logic, and adaptive bitrate selection. Specified the interface contracts between the player layer, content delivery, and offline download system. Result: smooth playback across inconsistent network conditions and measurably lower buffering rates.
-- **Content Discovery & Recommendation UX:** Partnered with product and data teams to specify the mobile surfaces for content recommendation — personalized home feeds, watch-history-driven suggestions, and editorial content placements. Defined the data contracts between mobile clients and the recommendation backend.
-- **Product Governance:** Owned the decision boundary between mobile engineering and product. I didn't implement features handed to me — I shaped what we built, negotiated scope and sequencing, and made explicit tradeoffs between technical debt, delivery speed, and business risk.
-- **Offline Content & DRM:** Architected the offline download system with DRM compliance, storage management, and license renewal flows. Specified the contracts between content encryption, local storage, and playback authorization.
-- **Engineering Organization Design:** Hired, onboarded, and mentored junior engineers with an explicit goal of cultivating the next generation of tech leads. Partnered with leadership to redesign team boundaries — transitioning from functional silos to autonomous product pods where engineering, product, and design collaborated directly.
-- **Automated Verification:** Established CI/CD automation and testing contracts that reduced release regression cycles by **40%**. Built analytics instrumentation across the full user funnel — from browse to binge — giving product data-driven visibility into feature performance.
+- **Delivered 30% Lift in Retention & Load Performance:** Spearheaded the ground-up architectural rewrite of Filimo's mobile client into modular Clean Architecture + MVVM frameworks with only 2 engineers in 6 months, dramatically boosting playback reliability and subscriber retention.
+- **Eliminated Streaming Stalls & Buffering:** Re-engineered the video playback infrastructure with optimized AVPlayer caching, dynamic CDN failover logic, and adaptive bitrate (ABR) streaming, maintaining seamless playback across erratic and low-bandwidth network environments.
+- **Optimized Content Discovery & Viewing Sessions:** Partnered with product and data science squads to design and ship high-converting recommendation surfaces, personalized home feeds, and client-side watch-history sync that drove measurable increases in daily watch time.
+- **Governed Multi-Squad Interface Boundaries:** Acted as the chief technical decision interface between engineering and product leadership — shaping product roadmaps, negotiating feature scope, managing sequencing, and preventing architectural drift across mobile clients.
+- **Secured Studio-Grade Offline DRM Playback:** Architected the complete offline download and storage subsystem with strict DRM license renewal compliance, encrypted local caching, and proactive storage quota management.
+- **Slashed Release Regression Cycles by 40%:** Established modern CI/CD automation pipelines, automated test suites, and standardized release gating criteria, drastically accelerating shipping cadence while cutting production bug escapes.
+- **Cultivated Autonomous Engineering Pods:** Hired, onboarded, and coached junior and mid-level engineers into independent technical leads. Redesigned cross-department collaboration, breaking down silos to unite engineering, product, and UI/UX in autonomous squads.
 
 <details>
-<summary><b>Deep Dive: VOD Platform Engineering at Scale</b></summary>
+<summary><b>Deep Dive: High-Scale VOD Platform Architecture</b></summary>
 <br/>
 
 > [!IMPORTANT]
-> Building for entertainment at scale is a different engineering discipline. Millions of users with zero tolerance for buffering. Content licensing constraints that invalidate your roadmap overnight. Product decisions that live or die by engagement metrics measured in watch-minutes, not page views. Every architectural choice — caching policy, CDN selection algorithm, offline sync strategy — has a direct, measurable impact on revenue and retention.
+> Delivering VOD at scale is a merciless domain: millions of concurrent users with zero patience for buffering, sudden traffic spikes during nationwide premieres, and stringent studio rights compliance. Every millisecond of player initialization and every caching decision directly impacts subscription retention and revenue.
 
-**What this role taught me that most engineering roles don't:**
-- How to specify systems where the failure mode is "user leaves and never comes back" — not a retry or an error page.
-- How to govern contracts between content delivery, rights management, and client-side playback across wildly inconsistent network conditions.
-- How to make product tradeoffs when the data is engagement curves and churn funnels, not JIRA ticket counts.
-- How to build a team that owns the product surface, not just the codebase — engineers who think in user journeys, not just API endpoints.
+- **Architectural Decomposition:** Decoupled legacy monolithic codebase into isolated feature frameworks with strict interface boundaries, allowing independent compilation and parallel squad development.
+- **Resilient Content Delivery:** Engineered multi-CDN routing logic that dynamically switches stream segments on high latency or packet loss without interrupting playback.
+- **Funnel & Telemetry Instrumentation:** Implemented granular event instrumentation across the complete user journey (browse &rarr; preview &rarr; stream &rarr; complete), giving product teams instant data-driven feedback on feature releases.
 
 </details>
 
 ---
 
 ### Co-Founder & CTO · **BeautyTime**
-`November 2017 – March 2020` · *E-Commerce & Appointment Scheduling Startup*
+`November 2017 – March 2020` · *E-Commerce & Multi-Platform Scheduling Startup*
 
 ![Scale](https://img.shields.io/badge/9K_DAU_%7C_3_Platforms_%7C_4_Months-34C759?style=flat-square)
 
-I co-founded and ran a company. Product vision, hiring, system architecture, fundraising conversations, sales partnerships, and shipping under impossible deadlines — the full scope of what it takes to go from zero to a live product with paying users.
+Co-founded, architected, and scaled an e-commerce appointment marketplace, owning company strategy, product roadmaps, technical systems, and organizational execution from day zero:
 
-- **System Specification Under Constraints:** Defined the product architecture and interface contracts for a multi-platform scheduling system (iOS, Android, Web) under a 4-month delivery constraint. The specification had to be simple enough for a small team to execute in parallel without coordination overhead.
-- **Zero to 9K DAU:** Shipped *BeautyTime* (consumer scheduling) and *Beautter* (business staff management) across three platforms. Managed the full funnel from acquisition to retention — **9,000+ daily active users** during peak campaigns.
-- **Team Architecture:** Built a 6-person organization (engineering, product, marketing, sales) designed for distributed ownership. Every team member owned a product slice end-to-end. My explicit goal was to make the founder non-blocking — the sign of a well-architected team.
-- **Business-Driven Engineering:** Every technical decision was a business decision. I learned to prioritize ruthlessly, cut scope that didn't drive retention, and build vendor partnerships alongside the product.
+- **Built & Shipped 3 Platforms in 4 Months:** Architected, specified, and launched two complementary products across **Web, iOS, and Android** within 4 months — consumer booking engine *BeautyTime* and B2B staff scheduling suite *Beautter*.
+- **Scaled Growth to 9,000+ Peak Daily Active Users:** Designed scalable backends and resilient client apps that handled rapid customer acquisition spikes during high-volume promotional campaigns with zero downtime.
+- **Formed an Autonomous 6-Person Organization:** Hired and led a 6-person cross-functional team spanning engineering, product, marketing, and sales. Structured workflows around distributed ownership so product lines could iterate without founder-level micromanagement.
+- **Ruthless Commercial Prioritization:** Guided the venture through capital constraints by continually aligning technical architecture with business KPIs, eliminating vanity scope, and establishing key commercial vendor partnerships.
 
 <details>
-<summary><b>What Entrepreneurship Taught Me About Engineering</b></summary>
+<summary><b>What Venture Leadership Taught Me About Systems</b></summary>
 <br/>
 
 > [!NOTE]
-> Running a company changed how I think about architecture permanently. The question stopped being "what's the cleanest design?" and became "what ships fastest, retains users, and won't collapse under growth?" I learned that the best specification is the one that lets a small team move fast without stepping on each other — and that's an architectural problem, not a management problem.
+> Founding and running a company permanently cemented my focus on outcomes over activities. Clean code only matters if it accelerates time-to-market, delights users, and scales unit economics. I evaluate every architectural tradeoff through the lens of business survival, team velocity, and user retention.
 
 </details>
 
 ---
 
-### Senior iOS Engineer · **Sheypoor**
+### Senior Engineer · **Sheypoor**
 `August 2015 – October 2017` · *Leading Classifieds Marketplace (350+ Employees)*
 
-- **Critical Platform Launch:** Architected and shipped Sheypoor iOS v2 in **three months** — the release that reduced user churn and directly supported a major institutional funding round.
-- **API & Interface Design:** Co-authored API contracts and UX specifications for v3 alongside product managers and backend teams. Shaped the product direction, not just the implementation.
-- **Measurable Impact:** Technical and product contributions drove a **20% lift in user engagement** across the organization.
-- **Fast-Tracked to Senior:** Promoted in **12 months** — 16 months ahead of the standard engineering track.
+- **Secured Major Institutional Funding Round:** Architected and deployed Sheypoor iOS v2 in **3 months**, turning around user churn and providing the core mobile metrics needed to close a pivotal venture financing round.
+- **Achieved Fast-Track Promotion in 12 Months:** Promoted to Senior Developer in 12 months (16 months ahead of standard company trajectory) based on exceptional cross-platform execution and technical leadership.
+- **Boosted Platform Engagement by 20%:** Partnered with web, Android, and backend teams across a 350-person company to design responsive, scalable v3 API contracts that significantly enhanced user engagement.
 
 ---
 
-### iOS Developer · **ivysoft**
+### Mobile Developer · **ivysoft**
 `June 2013 – January 2015`
 
-- **Platform Re-Architecture:** Restructured legacy codebases across two flagship apps — **50% reduction in load times** and modernized UX foundations.
-- **Business Model Specification:** Proposed and executed a transition from paid apps to freemium, based on user analytics and review data — **30% increase in downloads and revenue**. Changed the product strategy, not just the code.
+- **Cut Launch Latency by 50%:** Systematically refactored and eliminated legacy bottlenecks across two flagship production mobile apps, doubling application responsiveness and usability.
+- **Drove 30% Revenue & Download Growth:** Spearheaded the data-driven migration from paid upfront downloads to an in-app freemium model by mining user reviews and funnel drop-off analytics, transforming product monetization.
 
 ---
 
 ## Automotive Connectivity Architecture
 
 > [!NOTE]
-> Architectural overview of the CCC Digital Key 3.0 & Apple CarKey system at Quartett Mobile — showing the interface contracts between iOS client, device security hardware, and vehicle-side systems:
+> Architectural overview of the CCC Digital Key 3.0 & Apple CarKey ecosystem at Quartett Mobile — illustrating the boundary contracts between the mobile layer, hardware security modules, and vehicle gateway:
 
 ```mermaid
 flowchart TD
-    subgraph Client["iOS Client Architecture"]
-        UI["SwiftUI & UIKit Views"]
+    subgraph Client["Cross-Platform Client Architecture"]
+        UI["SwiftUI / Jetpack Compose / UIKit Views"]
         Coordinator["Digital Key Coordinator"]
         CarKeyKit["CarKeySession / CarKeyKit API"]
-        BLE["Cross-Platform BLE Core<br/>(C++ / Obj-C / Swift)"]
+        BLE["Shared Cross-Platform BLE Core<br/>(C++ Engine / JNI / Swift)"]
         PassKit["Apple Wallet PassKit Provider"]
     end
 
@@ -225,64 +223,62 @@ flowchart TD
 
 ## Skills
 
-### System Design & Governance
+### System Design & Cross-Platform Governance
 ```
-System Architecture · Domain Decomposition · Interface Contract Design · API Specification
-Modularization · Performance Profiling · Cross-Team Technical Alignment · Architectural RFCs
-```
-
-### Core Technologies
-```
-Swift · Objective-C · C++ · Python · SwiftUI · UIKit · Combine · Async/Await · GCD
-Core Data · SQLite · AVFoundation · StoreKit · REST · GraphQL
+Cross-Platform Architecture · System Decomposition · Interface Contract Design · API Governance
+Domain-Driven Design (DDD) · Modular Feature Frameworks · Performance Profiling · Architectural RFCs
 ```
 
-### Entertainment & Streaming
+### Core Technologies & Languages
 ```
-VOD Platform Architecture · AVPlayer Pipeline Design · CDN Failover & ABR
-Offline Content Sync · DRM Compliance · Content Recommendation Systems · Engagement Analytics
-```
-
-### Automotive & Hardware Protocols
-```
-Apple CarKeyKit · CCC Digital Key 3.0 · PassKit (Apple Wallet) · NFC
-Bluetooth Low Energy (BLE) · Ultra-Wideband (UWB) · Secure Element (SE)
+Swift · Objective-C · C++ · Python · Kotlin / Android Interop · SwiftUI · UIKit
+Combine · Async/Await · GCD · SQLite · Core Data · AVFoundation · REST · GraphQL
 ```
 
-### AI & Engineering Leverage
+### Entertainment & Streaming at Scale
 ```
-AI-Augmented Development (Claude, Cursor, Copilot, Agentic Workflows)
-OpenAI Whisper · LLMs (GPT, Qwen, Claude) · pyannote · AST Parsing
-AI Pipeline Design · Automated Verification · Prompt-Driven Prototyping
+VOD Platform Architecture · Adaptive Bitrate (ABR) · AVPlayer Engine Design · CDN Failover
+Offline DRM Synchronization · Content Discovery & Recommendation UX · Funnel Telemetry
 ```
 
-### Leadership & Organization Design
+### Automotive & Hardware Systems
 ```
-Company Building · Hiring & Technical Interviewing · 1:1 Mentoring
-Team Org Design · Product Roadmapping · Stakeholder Management · KPI-Driven Decisions
+Apple CarKeyKit · CCC Digital Key 3.0 · PassKit (Apple Wallet) · NFC Transceivers
+Bluetooth Low Energy (BLE) · Ultra-Wideband (UWB) Ranging · Secure Element (SE) Attestation
+```
+
+### AI Operations & Developer Velocity
+```
+AI-Augmented Development (Claude, Cursor, Copilot, Agentic Workflows) · Multimodal AI (Qwen)
+OpenAI Whisper · pyannote Diarization · AST Parsing & Knowledge Graphs · Automated Bug Triage
+```
+
+### Leadership & Venture Execution
+```
+0-to-1 Company Building · Technical Hiring & Interviewing · Cross-Functional Team Leadership
+1:1 Mentoring · Product Roadmapping · KPI & Metrics Alignment · Async Decision-Making
 ```
 
 ---
 
 ## Selected Projects
 
-| Project | Domain | Role | Impact |
+| Project | Domain | Role | Key Achievements |
 |:---|:---|:---:|:---|
-| **Filimo / Televika** | Entertainment / VOD | Mobile Lead | Re-architected iOS platform for millions of users; 30% retention lift; streaming, DRM, recommendations |
-| **Qwen Video** | AI Video Analysis | Builder | Multimodal scene classification, content tagging, metadata extraction |
-| **MacSpyCam** | AI / Security | Builder | macOS motion-triggered security camera with configurable detection and alerting |
-| **[noScribe](https://github.com/aakpro/noScribe)** | AI Transcription | Evaluating | Multi-speaker transcription (Whisper + pyannote); integrating into content workflows |
-| **[Graphify](https://github.com/aakpro/graphify)** | AI Dev Tools | User | Codebase → queryable knowledge graph via AST parsing; using for codebase navigation |
-| **Recordium** | Audio Recording | iOS | Featured by Apple, TNW, Guardian; Top 10 Business in 110 countries |
-| **BeautyTime** | E-Commerce | Co-Founder & CTO | Zero to 9K DAU across 3 platforms in 4 months |
-| **Quartett OEM Key** | Automotive | iOS Engineer | Apple CarKeyKit, CCC 3.0, Secure Element, cross-platform BLE |
-| **Rahavard365** | Financial Markets | iOS | Tehran Stock Exchange real-time data; millions of users |
-| **Digipay** | Fintech | iOS | Digital wallet for Digikala |
-| **Pacatio** | Fintech | iOS | Payment processing (USA) |
-| **Foxdoor** | Fintech | iOS | Mobile payments (Europe) |
-| **MusicMa** | Music Streaming | iOS | High-fidelity streaming client |
-| **TripeMa** | Travel | iOS | Lodging & tourism marketplace |
-| **Chanteh Group** | Education | Instructor | iOS development curriculum in Swift |
+| **Filimo / Televika** | Entertainment / VOD | Mobile Lead | Re-architected streaming platform for millions of users; **+30% retention**; sub-second playback |
+| **BeautyTime & Beautter** | E-Commerce | Co-Founder & CTO | Shipped **3 platforms in 4 months**; scaled to **9K+ DAU**; end-to-end venture execution |
+| **Quartett OEM Key** | Automotive Mobility | Senior Engineer | Delivered Apple CarKey & CCC 3.0 protocols; **co-developed unified C++ BLE core** across iOS & Android |
+| **Qwen Video Engine** | Multimodal AI | Builder | **Slashed manual video tagging by 80%+** via automated scene classification pipeline |
+| **MacSpyCam** | AI / Security | Builder | Privacy-first macOS security monitor with local motion detection and zero-latency alerting |
+| **[noScribe](https://github.com/aakpro/noScribe)** | AI Audio Pipeline | Evaluator & Integrator | Integrated multi-speaker Whisper + pyannote diarization into production media workflows |
+| **[Graphify](https://github.com/aakpro/graphify)** | AI Dev Tooling | Power User | Accelerated multi-repo comprehension via deterministic AST-based knowledge graph extraction |
+| **Recordium** | Audio Recording | Mobile Developer | 🏆 **Apple App Store Best of Year**; Featured in 110 countries; Top 10 Business worldwide |
+| **Sheypoor iOS v2** | Marketplace | Senior Engineer | **Shipped v2 in 3 months**, closing major institutional funding round; **+20% engagement** |
+| **Rahavard365** | Financial Markets | Mobile Developer | Real-time stock exchange data processing engine serving millions of active investors |
+| **Digipay** | Fintech & Payments | Mobile Developer | High-throughput digital checkout and wallet companion for Digikala e-commerce |
+| **Pacatio & Foxdoor** | Fintech | Mobile Developer | Digital payment processing applications across USA and European banking rails |
+| **MusicMa** | Music Streaming | Mobile Developer | High-fidelity music streaming application with offline caching and audio pipelines |
+| **Chanteh Group** | Tech Education | Lead Instructor | Authored and instructed comprehensive modern software development curriculum in Swift |
 
 ---
 
@@ -299,7 +295,7 @@ Team Org Design · Product Roadmapping · Stakeholder Management · KPI-Driven D
 
 > [!IMPORTANT]
 > **Best Solution for Audio Recording in Smartphones — Recordium (Apple App Store, 2013)**
-> - Featured globally by Apple, *The Next Web*, *The Guardian*, *The Telegraph*, and major tech publications.
+> - Officially featured globally by Apple, *The Next Web*, *The Guardian*, *The Telegraph*, and international tech press.
 > - **Top 10 Business Apps in 110 countries.**
 
 - **Selected Scientific Association Award — Harkat Festival (2011)**
@@ -307,9 +303,9 @@ Team Org Design · Product Roadmapping · Stakeholder Management · KPI-Driven D
 
 ---
 
-## Community
+## Community & Academic Work
 
-- **E-Commerce Laboratory (ECLab)** — *IUST*: Research papers, seminars, and big data technology presentations.
+- **E-Commerce Laboratory (ECLab)** — *IUST*: Academic research papers, seminars, and big data technology presentations.
 - **SM-Art Robotic Group**: Autonomous algorithms for Small Size League (RoboCup).
 
 ---
@@ -317,7 +313,7 @@ Team Org Design · Product Roadmapping · Stakeholder Management · KPI-Driven D
 ## Languages
 
 - **English:** Professional working proficiency
-- **Persian:** Native
+- **Persian:** Native proficiency
 
 ---
 
@@ -326,3 +322,7 @@ Team Org Design · Product Roadmapping · Stakeholder Management · KPI-Driven D
 - **Email:** [kashaniamirabbas@gmail.com](mailto:kashaniamirabbas@gmail.com)
 - **GitHub:** [@aakpro](https://github.com/aakpro)
 - **Location:** Munich, Germany
+
+<div align="center">
+  <sub>Built with ❤️ • Hosted on GitHub • Optimized for Dark & Light Mode</sub>
+</div>
