@@ -20,7 +20,7 @@ Munich, Germany · [kashaniamirabbas@gmail.com](mailto:kashaniamirabbas@gmail.co
 
 </div>
 
-> **Cross-platform mobile engineering lead with 10+ years spanning iOS, Android, Web, and shared C++ cores. Led mobile engineering for Filimo, a leading Middle East video-on-demand platform serving millions of subscribers, and previously co-founded a startup that shipped three platforms in four months. Currently a senior engineer on a connected-vehicle program building CCC 3.0 Digital Key and Apple CarKey integrations.**
+> **Cross-platform mobile engineering lead with 10+ years spanning iOS, Android, Web, and shared C++ cores. Led mobile engineering for Filimo, a leading Middle East video-on-demand platform with over 1 million users, and previously co-founded a startup that shipped three platforms in four months. Currently a senior engineer on a connected-vehicle program building CCC 3.0 Digital Key and Apple CarKey integrations.**
 
 ---
 
@@ -28,7 +28,7 @@ Munich, Germany · [kashaniamirabbas@gmail.com](mailto:kashaniamirabbas@gmail.co
 
 | **10+ Years Cross-Platform Leadership** | **0-to-1 Startup, Scaled to 9K DAU** | **High-Scale Entertainment: +30% Retention** |
 | :---: | :---: | :---: |
-| Mobile, web, and C++ systems architecture across entertainment, automotive, and startups | Co-founded BeautyTime; shipped Web, iOS, and Android in 4 months | Led Filimo's mobile architecture rewrite for millions of subscribers |
+| Mobile, web, and C++ systems architecture across entertainment, automotive, and startups | Co-founded BeautyTime; shipped Web, iOS, and Android in 4 months | Led Filimo's mobile architecture rewrite for a platform with 1M+ users |
 
 ---
 
@@ -37,7 +37,7 @@ Munich, Germany · [kashaniamirabbas@gmail.com](mailto:kashaniamirabbas@gmail.co
 I architect scalable systems, govern interface boundaries, and build high-velocity engineering teams. My background is cross-platform — operating across **mobile (iOS/Android), web, shared C++ cores, and embedded hardware interfaces**.
 
 - **Cross-Platform Engineering:** Whether synchronizing multi-platform releases (Web, iOS, Android) as a startup CTO, leading mobile engineering for a top VOD platform, or contributing to a shared C++ BLE core for vehicle connectivity, I design modular systems with explicit interface contracts that let teams work in parallel.
-- **High-Scale Entertainment (VOD):** Led mobile engineering for Filimo (millions of active subscribers), addressing playback latency, adaptive bitrate delivery, DRM licensing, and recommendation UX under variable network conditions.
+- **High-Scale Entertainment (VOD):** Led mobile engineering for Filimo (1M+ users, ~400K subscribers), addressing playback latency, adaptive bitrate delivery, DRM licensing, and recommendation UX under variable network conditions.
 - **Automotive & Hardware Integration:** Work on vehicle-to-device connectivity as part of a connected-mobility engineering team, integrating CCC 3.0 Digital Key specifications and Apple CarKey.
 - **Entrepreneurial Execution:** Co-founded and grew a startup from zero to a working multi-platform product under tight runway constraints.
 - **AI as an Engineering Lever:** In my own time, I build tooling that removes development toil — media classification pipelines, crash triage assistance, and automated transcription workflows (see [Independent Work](#independent-projects-and-ai-tooling)).
@@ -80,10 +80,10 @@ Delivering digital vehicle key and connectivity systems as part of a cross-platf
 *(Filimo · Televika · Zabia)*  
 `March 2020 – March 2022` · *Entertainment & High-Scale Video Streaming*
 
-Led cross-platform mobile engineering for **Filimo** (a leading video-on-demand platform in the Middle East, serving millions of active subscribers) along with international streaming services Televika and Zabia, delivering a **30% lift in retention and load performance** through a phased architecture rewrite:
+Led cross-platform mobile engineering for **Filimo** (a leading video-on-demand platform in the Middle East, with over 1 million users) along with international streaming services Televika and Zabia, delivering a **30% lift in retention and load performance** through a phased architecture rewrite:
 
 - **Modularized the Mobile Architecture:** Led the rewrite of Filimo's mobile client into a modular Clean Architecture + MVVM codebase, decoupling the legacy monolith into isolated feature frameworks that enabled independent compilation and parallel squad development.
-- **Reduced Streaming Stalls & Buffering:** Re-engineered video playback infrastructure with optimized AVPlayer caching, CDN failover logic, and adaptive bitrate (ABR) streaming to hold up under erratic, low-bandwidth network conditions.
+- **Cut Video Startup Time from 4-5s to ~1s:** Re-engineered video playback infrastructure with optimized AVPlayer caching, CDN failover logic, and adaptive bitrate (ABR) streaming to hold up under erratic, low-bandwidth network conditions.
 - **Improved Content Discovery & Watch Time:** Partnered with product and data science to design recommendation surfaces, personalized home feeds, and client-side watch-history sync.
 - **Governed Multi-Squad Interface Boundaries:** Acted as the primary technical liaison between engineering and product leadership — shaping roadmaps, negotiating feature scope, and preventing architectural drift across mobile clients.
 - **Delivered Offline DRM Playback:** Built the offline download and storage subsystem with DRM license renewal compliance, encrypted local caching, and storage quota management.
@@ -117,7 +117,7 @@ Co-founded, architected, and scaled an e-commerce appointment marketplace, ownin
 
 ### Recordium — Independent iOS App · 2013
 
-🏆 **Apple App Store Best of Year** · Featured in 110 countries · Top 10 Business Apps worldwide · Covered by *The Guardian*, *The Telegraph*, and *The Next Web*
+🏆 **Featured by Apple App Store** — "Best Solution for Audio Recording in Smartphones" · Featured in 110 countries · Top 10 Business Apps worldwide · Covered by *The Guardian*, *The Telegraph*, and *The Next Web*
 
 Built and shipped an audio recording app for iOS, independently of my employment at the time.
 
@@ -236,12 +236,12 @@ OpenAI Whisper · pyannote Diarization · AST Parsing & Knowledge Graphs · Auto
 
 | Project | Domain | Role | Key Achievements |
 |:---|:---|:---:|:---|
-| **Filimo / Televika** | Entertainment / VOD | Mobile Lead (2020–2022) | Re-architected streaming platform for millions of users; **+30% retention** |
+| **Filimo / Televika** | Entertainment / VOD | Mobile Lead (2020–2022) | Re-architected streaming platform with 1M+ users; **+30% retention** |
 | **BeautyTime & Beautter** | E-Commerce | Co-Founder & CTO (2017–2020) | Shipped **3 platforms in 4 months**; scaled to **9K+ DAU** |
 | **Quartett Digital Key** | Automotive Mobility | Senior Engineer (2022–Present) | Apple CarKey & CCC 3.0 integration; co-developed shared C++ BLE core across iOS & Android |
 | **Qwen Video Engine** | Multimodal AI | Builder (2024–Present) | Cut manual video tagging effort by roughly **80%** |
 | **MacSpyCam** | AI / Security | Builder (2024–Present) | Privacy-first macOS security monitor with local motion detection and low-latency alerting |
-| **Recordium** | Audio Recording | Independent (2013) | 🏆 **Apple App Store Best of Year**; featured in 110 countries; Top 10 Business worldwide |
+| **Recordium** | Audio Recording | Independent (2013) | 🏆 **Featured by Apple App Store**; featured in 110 countries; Top 10 Business worldwide |
 | **Sheypoor iOS v2** | Marketplace | Senior Engineer (2015–2017) | Shipped v2 in **3 months** ahead of a funding round; **+20% engagement** |
 
 ---
